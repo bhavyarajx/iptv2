@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP ASMITA
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AAJ TAK 
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABP NEWS 
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GSTV 
+https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",INDIA NEWS 
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 18 GUJARATI
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:0 tvg-id="ext" group-title="Channels",9X JALWA
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD NATIONAL
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels", DISCOVERY SCIENCE
+http://103.153.39.36:8000/play/a01k
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAKSHYA
+https://m-c04-j2apps.s.llnwi.net/hls/1738.LakshyaTV.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE NEWS
+http://42.200.67.163:8090/play/a0pe
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KALYAN TV
+https://m-c02-j2apps.s.llnwi.net/hls/7010.KalyanTV.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VALAM BHAKTI
+https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAMARPAN BHAKTI
+https://m-c04-j2apps.s.llnwi.net/hls/7003.Samarpan.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SANSKAR
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 18 INDIA
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels", DISCOVERY
+http://alphabetagama.ddns.net/wildsci2019/discoveryhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDk6Mzg6MzkgQU0maGFzaF92YWx1ZT05UWJTMEpvTnVWRFNMNUlBVWl4Q0FRPT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEOGRAPHY
+http://alphabetagama.ddns.net/wildsci2019/natgeohindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDk6NDI6NDMgQU0maGFzaF92YWx1ZT10Z3g3Z0dDYnJSb1Y4cHUrUE5qN0VBPT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS 18 GUJARATI
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/master.m3u8?hdnea=st=1647163237~exp=1647199237~acl=/*~hmac=46f0a177cdabd4ffb9d6bef35cbc93f4367cd75ae5f0ecceb341b9ba04006bc1
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 9 GUJARATI
+https://vidcdn.vidgyor.com/tv9gujarati-origin/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels", HISTORY TV 18 HD
+http://alphabetagama.ddns.net/wildsci2019/historytv18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDk6NTA6MzggQU0maGFzaF92YWx1ZT01K2MvdHUxMVBoMXZSa2VPcTRNMWZ3PT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:0 tvg-id="ext" group-title="Channels",INDIA LIVE MATCH
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/-9kIuzBuR6xd4NOy-n6r3DqezifWVZHS1r3Nir4u7Ss1_QnVSBWyDFmjF-p1ji0mgiXgecimZUr4lDw98sPSdg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+
+
